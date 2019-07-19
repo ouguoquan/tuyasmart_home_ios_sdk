@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   # s.vendored_libraries        = 'ios/*.a'
 
   s.dependency 'TuyaSmartBaseKit'
-  s.dependency 'CocoaAsyncSocket'
+  # s.dependency 'CocoaAsyncSocket'
 
 end

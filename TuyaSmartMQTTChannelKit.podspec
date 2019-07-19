@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   # s.vendored_libraries        = 'ios/*.a'
 
   s.dependency 'TuyaSmartBaseKit'
-  s.dependency 'MQTTClient', '0.14.0'
+  # s.dependency 'MQTTClient', '0.14.0'
 
 end
